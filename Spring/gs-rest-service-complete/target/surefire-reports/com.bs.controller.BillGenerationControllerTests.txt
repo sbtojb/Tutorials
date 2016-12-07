@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bs.controller.BillGenerationControllerTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.99 sec - in com.bs.controller.BillGenerationControllerTests
